@@ -12,7 +12,7 @@
 
 <br><br>
 
-![Seungjune's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseungjjune&theme=vue-dark&show_icons=true)
+![Seung June's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseungjjune&theme=vue-dark&show_icons=true)
 
 
 <br>
